@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "Fun Facts" is also a board game.
 
-- Upcomming: Update
+Upcoming: Update
 <!---
 elki-03/elki-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
