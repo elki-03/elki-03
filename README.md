@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate, after I honed my skills to a level where I can
 - 📫 How to reach me
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: looking for an internship 
+- ⚡ Fun fact: looking for an internship in HH
 
 Upcoming: Update
 <!---
