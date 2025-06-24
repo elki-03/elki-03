@@ -1,8 +1,8 @@
 - 👋 Hi, I’m elki
-- 👀 I’m interested in a lot of things, a lot of love goes to my cats!<3
-- 🌱 I’m currently learning C# and Java Basics. I rly want to get better at C#. Unity <3 Also in love with LibGDX
+- 👀 I’m interested in a lot of things, a lot of love goes to my cats! <3
+- 🌱 I’m currently learning php and codeigniter. I also like videogames a lot and a little dream of mine is to make an indie game in the future.
 - 💞️ I’m looking to collaborate, after I honed my skills to a level where I can
-- 📫 How to reach me..
+- 📫 How to reach me:  ...maybe later :D
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: there is a board game named "fun facts"
 
